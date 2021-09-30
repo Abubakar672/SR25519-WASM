@@ -1,0 +1,19 @@
+{
+  "name": "sr25519-wasm",
+  "version": "1.0.0",
+  "description": "This package will help you to resolve the issue of web assembly in react while working with cosmos-sdk ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abubakar672/SR25519-WASM.git"
+  },
+  "author": "AbuBakar Mujahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abubakar672/SR25519-WASM/issues"
+  },
+  "homepage": "https://github.com/Abubakar672/SR25519-WASM#readme"
+}
